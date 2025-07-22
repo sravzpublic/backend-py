@@ -1,0 +1,252 @@
+{
+    "code": "AAACX.US",
+    "datetime": "2024-03-09T21:36:17.458814428Z",
+    "data": null,
+    "dataObject": {
+      "General": {
+        "Code": "AAACX",
+        "Type": "FUND",
+        "Name": "Alpha Alternative Assets Fund",
+        "Exchange": "NMFQS",
+        "CurrencyCode": "USD",
+        "CurrencyName": "US Dollar",
+        "CurrencySymbol": "$",
+        "CountryName": "USA",
+        "CountryISO": "US",
+        "OpenFigi": "BBG00QG3N011",
+        "ISIN": null,
+        "CUSIP": null,
+        "Fund_Summary": null,
+        "Fund_Family": null,
+        "Fund_Category": null,
+        "Fund_Style": null,
+        "Fiscal_Year_End": null,
+        "MarketCapitalization": null
+      },
+      "MutualFund_Data": {
+        "Fund_Category": null,
+        "Fund_Style": null,
+        "Nav": null,
+        "Prev_Close_Price": "6.25",
+        "Update_Date": "2024-03-31",
+        "Portfolio_Net_Assets": null,
+        "Share_Class_Net_Assets": null,
+        "Morning_Star_Rating": null,
+        "Morning_Star_Risk_Rating": null,
+        "Morning_Star_Category": null,
+        "Inception_Date": null,
+        "Currency": null,
+        "Domicile": null,
+        "Yield": null,
+        "Yield_YTD": null,
+        "Yield_1Year_YTD": null,
+        "Yield_3Year_YTD": null,
+        "Yield_5Year_YTD": null,
+        "Expense_Ratio": null,
+        "Expense_Ratio_Date": null,
+        "Value_Growth": {},
+        "Market_Capitalization": {}
+      }
+    },
+    "General": {
+      "Code": "AAACX",
+      "Type": "FUND",
+      "Name": "Alpha Alternative Assets Fund",
+      "Exchange": "NMFQS",
+      "CurrencyCode": "USD",
+      "CurrencyName": "US Dollar",
+      "CurrencySymbol": "$",
+      "CountryName": "USA",
+      "CountryISO": "US",
+      "OpenFigi": "BBG00QG3N011",
+      "ISIN": null,
+      "CUSIP": null,
+      "Fund_Summary": null,
+      "Fund_Family": null,
+      "Fund_Category": null,
+      "Fund_Style": null,
+      "Fiscal_Year_End": null,
+      "MarketCapitalization": null
+    },
+    "General2": {
+      "Fund_Category": null,
+      "Fund_Style": null,
+      "Nav": null,
+      "Prev_Close_Price": "6.25",
+      "Update_Date": "2024-03-31",
+      "Portfolio_Net_Assets": null,
+      "Share_Class_Net_Assets": null,
+      "Morning_Star_Rating": null,
+      "Morning_Star_Risk_Rating": null,
+      "Morning_Star_Category": null,
+      "Inception_Date": null,
+      "Currency": null,
+      "Domicile": null,
+      "Yield": null,
+      "Yield_YTD": null,
+      "Yield_1Year_YTD": null,
+      "Yield_3Year_YTD": null,
+      "Yield_5Year_YTD": null,
+      "Expense_Ratio": null,
+      "Expense_Ratio_Date": null,
+      "Value_Growth": {},
+      "Market_Capitalization": {}
+    },
+    "Asset_Allocation": [],
+    "WorldRegionHoldings": [],
+    "Sector_Weights": [],
+    "Holdings": [],
+    "Top_Holdings": [
+      {
+        "Name": "Ares Capital Corp",
+        "Owned": "30,100",
+        "Change": "0",
+        "Weight": " 6.27"
+      },
+      {
+        "Name": "Owl Rock Capital Corp Ordinary Shares",
+        "Owned": "41,000",
+        "Change": "0",
+        "Weight": " 5.71"
+      },
+      {
+        "Name": "Pennant Park Investment Corp",
+        "Owned": "73,470",
+        "Change": "0",
+        "Weight": " 5.01"
+      },
+      {
+        "Name": "Eagle Point Credit Co LLC",
+        "Owned": "29,882",
+        "Change": "0",
+        "Weight": " 4.11"
+      },
+      {
+        "Name": "Government National Mortgage Association 1.94%",
+        "Owned": "5,411,931",
+        "Change": "-443,038",
+        "Weight": " 3.70"
+      },
+      {
+        "Name": "Oxford Lane Capital Corp PRF REDEEM 28/02/2027 USD 25 - Ser 2027",
+        "Owned": "10,100",
+        "Change": "0",
+        "Weight": " 2.51"
+      },
+      {
+        "Name": "Government National Mortgage Association 1.14%",
+        "Owned": "3,079,883",
+        "Change": "-231,764",
+        "Weight": " 2.44"
+      },
+      {
+        "Name": "Government National Mortgage Association 2.25%",
+        "Owned": "2,988,896",
+        "Change": "-232,525",
+        "Weight": " 2.35"
+      },
+      {
+        "Name": "Alerian MLP ETF",
+        "Owned": "7,300",
+        "Change": "7,300",
+        "Weight": " 2.35"
+      },
+      {
+        "Name": "Ares Commercial Real Estate Corp",
+        "Owned": "16,400",
+        "Change": "9,900",
+        "Weight": " 2.34"
+      },
+      {
+        "Name": "Government National Mortgage Association 0.92%",
+        "Owned": "4,092,855",
+        "Change": "-328,572",
+        "Weight": " 2.32"
+      },
+      {
+        "Name": "Government National Mortgage Association 1.02%",
+        "Owned": "3,589,430",
+        "Change": "-204,899",
+        "Weight": " 2.29"
+      },
+      {
+        "Name": "Government National Mortgage Association 1.66%",
+        "Owned": "3,544,965",
+        "Change": "-21,588",
+        "Weight": " 2.25"
+      },
+      {
+        "Name": "Government National Mortgage Association 1.05%",
+        "Owned": "2,996,827",
+        "Change": "-249,463",
+        "Weight": " 2.08"
+      },
+      {
+        "Name": "Ready Capital Corp",
+        "Owned": "13,200",
+        "Change": "6,500",
+        "Weight": " 2.03"
+      },
+      {
+        "Name": "Government National Mortgage Association 1.08%",
+        "Owned": "3,344,368",
+        "Change": "-266,877",
+        "Weight": " 1.97"
+      },
+      {
+        "Name": "Government National Mortgage Association 0.69%",
+        "Owned": "4,423,691",
+        "Change": "-340,840",
+        "Weight": " 1.96"
+      },
+      {
+        "Name": "Government National Mortgage Association 0.99%",
+        "Owned": "3,297,575",
+        "Change": "-291,203",
+        "Weight": " 1.90"
+      },
+      {
+        "Name": "Government National Mortgage Association 1.26%",
+        "Owned": "2,593,552",
+        "Change": "-276,742",
+        "Weight": " 1.82"
+      },
+      {
+        "Name": "Government National Mortgage Association 1.95%",
+        "Owned": "2,261,023",
+        "Change": "-95,906",
+        "Weight": " 1.63"
+      },
+      {
+        "Name": "Government National Mortgage Association 2.4%",
+        "Owned": "2,027,241",
+        "Change": "-91,582",
+        "Weight": " 1.42"
+      },
+      {
+        "Name": "Government National Mortgage Association 2.19%",
+        "Owned": "1,503,266",
+        "Change": "-67,547",
+        "Weight": " 1.33"
+      },
+      {
+        "Name": "Government National Mortgage Association 2.27%",
+        "Owned": "1,316,916",
+        "Change": "-116,702",
+        "Weight": " 1.25"
+      },
+      {
+        "Name": "Government National Mortgage Association 0.75%",
+        "Owned": "2,640,058",
+        "Change": "-146,969",
+        "Weight": " 1.23"
+      },
+      {
+        "Name": "Government National Mortgage Association 0.8%",
+        "Owned": "2,377,991",
+        "Change": "-256,683",
+        "Weight": " 1.20"
+      }
+    ],
+    "Top_Countries": []
+  }

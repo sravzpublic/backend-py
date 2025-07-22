@@ -1,0 +1,337 @@
+[
+ {
+   "Exchange Code": "US",
+   "MIC": "XNAS, XNYS",
+   "Exchange Name": "USA Stocks"
+ },
+ {
+   "Exchange Code": "LSE",
+   "MIC": "XLON",
+   "Exchange Name": "London Exchange"
+ },
+ {
+   "Exchange Code": "V",
+   "MIC": "XTSX",
+   "Exchange Name": "TSX Venture Exchange"
+ },
+ {
+   "Exchange Code": "TO",
+   "MIC": "XTSE",
+   "Exchange Name": "Toronto Exchange"
+ },
+ {
+   "Exchange Code": "BE",
+   "MIC": "XBER",
+   "Exchange Name": "Berlin Exchange"
+ },
+ {
+   "Exchange Code": "F",
+   "MIC": "XFRA",
+   "Exchange Name": "Frankfurt Exchange"
+ },
+ {
+   "Exchange Code": "STU",
+   "MIC": "XSTU",
+   "Exchange Name": "Stuttgart Exchange"
+ },
+ {
+   "Exchange Code": "XETRA",
+   "MIC": "XETR",
+   "Exchange Name": "XETRA Exchange"
+ },
+ {
+   "Exchange Code": "HA",
+   "MIC": "XHAN",
+   "Exchange Name": "Hanover Exchange"
+ },
+ {
+   "Exchange Code": "HM",
+   "MIC": "XHAM",
+   "Exchange Name": "Hamburg Exchange"
+ },
+ {
+   "Exchange Code": "MU",
+   "MIC": "XMUN",
+   "Exchange Name": "Munich Exchange"
+ },
+ {
+   "Exchange Code": "DU",
+   "MIC": "XDUS",
+   "Exchange Name": "Dusseldorf Exchange"
+ },
+ {
+   "Exchange Code": "MI",
+   "MIC": "XMIL",
+   "Exchange Name": "Borsa Italiana"
+ },
+ {
+   "Exchange Code": "VI",
+   "MIC": "XWBO",
+   "Exchange Name": "Vienna Exchange"
+ },
+ {
+   "Exchange Code": "LU",
+   "MIC": "XLUX",
+   "Exchange Name": "Luxembourg Stock Exchange"
+ },
+ {
+   "Exchange Code": "PA",
+   "MIC": "XPAR",
+   "Exchange Name": "Euronext Paris"
+ },
+ {
+   "Exchange Code": "BR",
+   "MIC": "XBRU",
+   "Exchange Name": "Euronext Brussels"
+ },
+ {
+   "Exchange Code": "AS",
+   "MIC": "XAMS",
+   "Exchange Name": "Euronext Amsterdam"
+ },
+ {
+   "Exchange Code": "MC",
+   "MIC": "BMEX",
+   "Exchange Name": "Madrid Exchange"
+ },
+ {
+   "Exchange Code": "VX",
+   "MIC": "XSWX",
+   "Exchange Name": "Swiss Exchange"
+ },
+ {
+   "Exchange Code": "SW",
+   "MIC": "XSWX",
+   "Exchange Name": "SIX Swiss Exchange"
+ },
+ {
+   "Exchange Code": "LS",
+   "MIC": "XLIS",
+   "Exchange Name": "Euronext Lisbon"
+ },
+ {
+   "Exchange Code": "ST",
+   "MIC": "XSTO",
+   "Exchange Name": "Stockholm Exchange"
+ },
+ {
+   "Exchange Code": "OL",
+   "MIC": "XOSL",
+   "Exchange Name": "Oslo Stock Exchange"
+ },
+ {
+   "Exchange Code": "NB",
+   "MIC": "XTAL",
+   "Exchange Name": "Nasdaq Baltic"
+ },
+ {
+   "Exchange Code": "CO",
+   "MIC": "XCSE",
+   "Exchange Name": "Copenhagen Exchange"
+ },
+ {
+   "Exchange Code": "NFN",
+   "MIC": "XCSE",
+   "Exchange Name": "Nasdaq First North"
+ },
+ {
+   "Exchange Code": "IC",
+   "MIC": "XICE",
+   "Exchange Name": "Iceland Exchange"
+ },
+ {
+   "Exchange Code": "HE",
+   "MIC": "XHEL",
+   "Exchange Name": "Helsinki Exchange"
+ },
+ {
+   "Exchange Code": "IR",
+   "MIC": "XDUB",
+   "Exchange Name": "Irish Exchange"
+ },
+ {
+   "Exchange Code": "HK",
+   "MIC": "XHKG",
+   "Exchange Name": "Hong Kong Exchange"
+ },
+ {
+   "Exchange Code": "TA",
+   "MIC": "XTAE",
+   "Exchange Name": "Tel Aviv Exchange"
+ },
+ {
+   "Exchange Code": "KO",
+   "MIC": "XKRX",
+   "Exchange Name": "Korea Stock Exchange"
+ },
+ {
+   "Exchange Code": "KQ",
+   "MIC": "XKOS",
+   "Exchange Name": "KOSDAQ"
+ },
+ {
+   "Exchange Code": "WAR",
+   "MIC": "XWAR",
+   "Exchange Name": "Warsaw Stock Exchange"
+ },
+ {
+   "Exchange Code": "BUD",
+   "MIC": "XBUD",
+   "Exchange Name": "Budapest Stock Exchange"
+ },
+ {
+   "Exchange Code": "PSE",
+   "MIC": "XPHS",
+   "Exchange Name": "Philippine Stock Exchange"
+ },
+ {
+   "Exchange Code": "SG",
+   "MIC": "XSES",
+   "Exchange Name": "Singapore Exchange"
+ },
+ {
+   "Exchange Code": "BSE",
+   "MIC": "XBOM",
+   "Exchange Name": "Bombay Exchange"
+ },
+ {
+   "Exchange Code": "NSE",
+   "MIC": "XNSE",
+   "Exchange Name": "NSE (India)"
+ },
+ {
+   "Exchange Code": "TSE",
+   "MIC": "XJPX",
+   "Exchange Name": "Tokyo Stock Exchange"
+ },
+ {
+   "Exchange Code": "JK",
+   "MIC": "XIDX",
+   "Exchange Name": "Jakarta Exchange"
+ },
+ {
+   "Exchange Code": "AT",
+   "MIC": "ASEX",
+   "Exchange Name": "Athens Exchange"
+ },
+ {
+   "Exchange Code": "SHE",
+   "MIC": "XSHE",
+   "Exchange Name": "Shenzhen Exchange"
+ },
+ {
+   "Exchange Code": "KAR",
+   "MIC": "XKAR",
+   "Exchange Name": "Karachi Stock Exchange"
+ },
+ {
+   "Exchange Code": "SHG",
+   "MIC": "XSHG",
+   "Exchange Name": "Shanghai Exchange"
+ },
+ {
+   "Exchange Code": "SR",
+   "MIC": "XSAU",
+   "Exchange Name": "Saudi Arabia Exchange"
+ },
+ {
+   "Exchange Code": "BK",
+   "MIC": "XBKK",
+   "Exchange Name": "Thailand Exchange"
+ },
+ {
+   "Exchange Code": "JSE",
+   "MIC": "XJSE",
+   "Exchange Name": "Johannesburg Exchange"
+ },
+ {
+   "Exchange Code": "SN",
+   "MIC": "XSGO",
+   "Exchange Name": "Chilean Stock Exchange"
+ },
+ {
+   "Exchange Code": "VN",
+   "MIC": "HSTC",
+   "Exchange Name": "Vietnam Stocks"
+ },
+ {
+   "Exchange Code": "AU",
+   "MIC": "XASX",
+   "Exchange Name": "Australia Exchange"
+ },
+ {
+   "Exchange Code": "KLSE",
+   "MIC": "XKLS",
+   "Exchange Name": "Kuala Lumpur Exchange"
+ },
+ {
+   "Exchange Code": "BA",
+   "MIC": "XBUE",
+   "Exchange Name": "Buenos Aires Exchange"
+ },
+ {
+   "Exchange Code": "SA",
+   "MIC": "BVMF",
+   "Exchange Name": "Sao Paolo Exchange"
+ },
+ {
+   "Exchange Code": "MX",
+   "MIC": "XMEX",
+   "Exchange Name": "Mexican Exchange"
+ },
+ {
+   "Exchange Code": "IL",
+   "MIC": "",
+   "Exchange Name": "London IL"
+ },
+ {
+   "Exchange Code": "BOND",
+   "MIC": "",
+   "Exchange Name": "Bond Virtual Exchange"
+ },
+ {
+   "Exchange Code": "EUFUND",
+   "MIC": "",
+   "Exchange Name": "Europe Fund Virtual Exchange"
+ },
+ {
+   "Exchange Code": "RUFUND",
+   "MIC": "",
+   "Exchange Name": "Russsia Fund Virtual Exchange"
+ },
+ {
+   "Exchange Code": "IS",
+   "MIC": "XIST",
+   "Exchange Name": "Istanbul Stock Exchange"
+ },
+ {
+   "Exchange Code": "CC",
+   "MIC": "CRYP",
+   "Exchange Name": "Cryptocurrencies"
+ },
+ {
+   "Exchange Code": "COMM",
+   "MIC": "",
+   "Exchange Name": "Commodities"
+ },
+ {
+   "Exchange Code": "FOREX",
+   "MIC": "CDSL",
+   "Exchange Name": "FOREX"
+ },
+ {
+   "Exchange Code": "TWO",
+   "MIC": "ROCO",
+   "Exchange Name": "Taiwan OTC Exchange"
+ },
+ {
+   "Exchange Code": "TW",
+   "MIC": "XTAI",
+   "Exchange Name": "Taiwan Exchange"
+ },
+ {
+   "Exchange Code": "INDX",
+   "MIC": "",
+   "Exchange Name": "Indices"
+ }
+]

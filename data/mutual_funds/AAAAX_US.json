@@ -1,0 +1,745 @@
+{
+    "code": "AAAAX.US",
+    "datetime": "2024-03-02T18:34:02.671Z",
+    "data": null,
+    "dataObject": {
+      "General": {
+        "Code": "AAAAX",
+        "Type": "FUND",
+        "Name": "DWS RREEF Real Assets Fund - Class A",
+        "Exchange": "NMFQS",
+        "CurrencyCode": "USD",
+        "CurrencyName": "US Dollar",
+        "CurrencySymbol": "$",
+        "CountryName": "USA",
+        "CountryISO": "US",
+        "OpenFigi": "BBG000RSJVZ1",
+        "ISIN": "US25159K8797",
+        "CUSIP": "25159K879",
+        "Fund_Summary": "The fund will invest at least 80% of its net assets, plus the amount of any borrowings for investment purposes, in a combination of investments that the Advisor believes offer exposure to \"real assets.\" It generally invests between 15% and 75% of fund assets in securities of foreign issuers, including up to 10% of fund assets in issuers located in countries with new or emerging markets.",
+        "Fund_Family": "DWS",
+        "Fund_Category": "World Allocation",
+        "Fund_Style": "Large Blend",
+        "Fiscal_Year_End": "March",
+        "MarketCapitalization": 0
+      },
+      "MutualFund_Data": {
+        "Fund_Category": "World Allocation",
+        "Fund_Style": "Large Blend",
+        "Nav": "11.08",
+        "Prev_Close_Price": "11.14",
+        "Update_Date": "2023-12-31",
+        "Portfolio_Net_Assets": "5165680000",
+        "Share_Class_Net_Assets": "104210000",
+        "Morning_Star_Rating": null,
+        "Morning_Star_Risk_Rating": null,
+        "Morning_Star_Category": null,
+        "Inception_Date": "2007-07-30",
+        "Currency": "USD",
+        "Domicile": "United States",
+        "Yield": "0.0214",
+        "Yield_YTD": null,
+        "Yield_1Year_YTD": "0.4843",
+        "Yield_3Year_YTD": "2.5721",
+        "Yield_5Year_YTD": "4.9494",
+        "Expense_Ratio": "1.2100",
+        "Expense_Ratio_Date": "2022-08-01",
+        "Value_Growth": {
+          "0": {
+            "Name": "Price/Prospective Earnings",
+            "Category_Average": 14.83543,
+            "Benchmark": 16.64617,
+            "Stock_Portfolio": 17.76855
+          },
+          "1": {
+            "Name": "Price/Book",
+            "Category_Average": 1.97628,
+            "Benchmark": 2.40316,
+            "Stock_Portfolio": 1.68397
+          },
+          "2": {
+            "Name": "Price/Sales",
+            "Category_Average": 1.43505,
+            "Benchmark": 1.66927,
+            "Stock_Portfolio": 1.86036
+          },
+          "3": {
+            "Name": "Price/Cash Flow",
+            "Category_Average": 8.80903,
+            "Benchmark": 10.47211,
+            "Stock_Portfolio": 8.09996
+          },
+          "4": {
+            "Name": "Dividend Yield %",
+            "Category_Average": 2.94411,
+            "Benchmark": 2.24889,
+            "Stock_Portfolio": 3.9799
+          },
+          "5": {
+            "Name": "Long-Term Earnings %",
+            "Category_Average": 9.77857,
+            "Benchmark": 10.56044,
+            "Stock_Portfolio": 9.28556
+          },
+          "6": {
+            "Name": "Historical Earnings %",
+            "Category_Average": 15.59024,
+            "Benchmark": 12.86422,
+            "Stock_Portfolio": 17.38957
+          },
+          "7": {
+            "Name": "Book-Value Growth %",
+            "Category_Average": 6.9142,
+            "Benchmark": 6.13255,
+            "Stock_Portfolio": 6.63086
+          },
+          "8": {
+            "Name": "Sales Growth %",
+            "Category_Average": 8.42805,
+            "Benchmark": 7.74732,
+            "Stock_Portfolio": 15.5298
+          },
+          "9": {
+            "Name": "Cash-Flow Growth %",
+            "Category_Average": 7.13962,
+            "Benchmark": 7.19038,
+            "Stock_Portfolio": 19.5793
+          }
+        },
+        "Market_Capitalization": {
+          "0": {
+            "Size": "AverageMarketCap",
+            "Category_Average": 79024.35397,
+            "Benchmark": 94538.30322,
+            "Portfolio_%": 26265.12103
+          },
+          "1": {
+            "Size": "Giant",
+            "Category_Average": 24.77376,
+            "Benchmark": 27.20812,
+            "Portfolio_%": 6.23353
+          },
+          "2": {
+            "Size": "Large",
+            "Category_Average": 16.1732,
+            "Benchmark": 19.99473,
+            "Portfolio_%": 28.54376
+          },
+          "3": {
+            "Size": "Medium",
+            "Category_Average": 14.07169,
+            "Benchmark": 10.92029,
+            "Portfolio_%": 33.23784
+          },
+          "4": {
+            "Size": "Small",
+            "Category_Average": 3.17373,
+            "Benchmark": 2.94221,
+            "Portfolio_%": 4.36196
+          },
+          "5": {
+            "Size": "Micro",
+            "Category_Average": 0.45265,
+            "Benchmark": 0.04178,
+            "Portfolio_%": 0
+          }
+        },
+        "market_capitalization": null,
+        "world_regions": null,
+        "sector_weights": null,
+        "asset_allocation": null
+      }
+    },
+    "General": {
+      "Code": "AAAAX",
+      "Type": "FUND",
+      "Name": "DWS RREEF Real Assets Fund - Class A",
+      "Exchange": "NMFQS",
+      "CurrencyCode": "USD",
+      "CurrencyName": "US Dollar",
+      "CurrencySymbol": "$",
+      "CountryName": "USA",
+      "CountryISO": "US",
+      "OpenFigi": "BBG000RSJVZ1",
+      "ISIN": "US25159K8797",
+      "CUSIP": "25159K879",
+      "Fund_Summary": "The fund will invest at least 80% of its net assets, plus the amount of any borrowings for investment purposes, in a combination of investments that the Advisor believes offer exposure to \"real assets.\" It generally invests between 15% and 75% of fund assets in securities of foreign issuers, including up to 10% of fund assets in issuers located in countries with new or emerging markets.",
+      "Fund_Family": "DWS",
+      "Fund_Category": "World Allocation",
+      "Fund_Style": "Large Blend",
+      "Fiscal_Year_End": "March",
+      "MarketCapitalization": 0
+    },
+    "General2": {
+      "Fund_Category": "World Allocation",
+      "Fund_Style": "Large Blend",
+      "Nav": "11.08",
+      "Prev_Close_Price": "11.14",
+      "Update_Date": "2023-12-31",
+      "Portfolio_Net_Assets": "5165680000",
+      "Share_Class_Net_Assets": "104210000",
+      "Morning_Star_Rating": null,
+      "Morning_Star_Risk_Rating": null,
+      "Morning_Star_Category": null,
+      "Inception_Date": "2007-07-30",
+      "Currency": "USD",
+      "Domicile": "United States",
+      "Yield": "0.0214",
+      "Yield_YTD": null,
+      "Yield_1Year_YTD": "0.4843",
+      "Yield_3Year_YTD": "2.5721",
+      "Yield_5Year_YTD": "4.9494",
+      "Expense_Ratio": "1.2100",
+      "Expense_Ratio_Date": "2022-08-01",
+      "Value_Growth": {
+        "0": {
+          "Name": "Price/Prospective Earnings",
+          "Category_Average": 14.83543,
+          "Benchmark": 16.64617,
+          "Stock_Portfolio": 17.76855
+        },
+        "1": {
+          "Name": "Price/Book",
+          "Category_Average": 1.97628,
+          "Benchmark": 2.40316,
+          "Stock_Portfolio": 1.68397
+        },
+        "2": {
+          "Name": "Price/Sales",
+          "Category_Average": 1.43505,
+          "Benchmark": 1.66927,
+          "Stock_Portfolio": 1.86036
+        },
+        "3": {
+          "Name": "Price/Cash Flow",
+          "Category_Average": 8.80903,
+          "Benchmark": 10.47211,
+          "Stock_Portfolio": 8.09996
+        },
+        "4": {
+          "Name": "Dividend Yield %",
+          "Category_Average": 2.94411,
+          "Benchmark": 2.24889,
+          "Stock_Portfolio": 3.9799
+        },
+        "5": {
+          "Name": "Long-Term Earnings %",
+          "Category_Average": 9.77857,
+          "Benchmark": 10.56044,
+          "Stock_Portfolio": 9.28556
+        },
+        "6": {
+          "Name": "Historical Earnings %",
+          "Category_Average": 15.59024,
+          "Benchmark": 12.86422,
+          "Stock_Portfolio": 17.38957
+        },
+        "7": {
+          "Name": "Book-Value Growth %",
+          "Category_Average": 6.9142,
+          "Benchmark": 6.13255,
+          "Stock_Portfolio": 6.63086
+        },
+        "8": {
+          "Name": "Sales Growth %",
+          "Category_Average": 8.42805,
+          "Benchmark": 7.74732,
+          "Stock_Portfolio": 15.5298
+        },
+        "9": {
+          "Name": "Cash-Flow Growth %",
+          "Category_Average": 7.13962,
+          "Benchmark": 7.19038,
+          "Stock_Portfolio": 19.5793
+        }
+      },
+      "Market_Capitalization": {
+        "0": {
+          "Size": "AverageMarketCap",
+          "Category_Average": 79024.35397,
+          "Benchmark": 94538.30322,
+          "Portfolio_%": 26265.12103
+        },
+        "1": {
+          "Size": "Giant",
+          "Category_Average": 24.77376,
+          "Benchmark": 27.20812,
+          "Portfolio_%": 6.23353
+        },
+        "2": {
+          "Size": "Large",
+          "Category_Average": 16.1732,
+          "Benchmark": 19.99473,
+          "Portfolio_%": 28.54376
+        },
+        "3": {
+          "Size": "Medium",
+          "Category_Average": 14.07169,
+          "Benchmark": 10.92029,
+          "Portfolio_%": 33.23784
+        },
+        "4": {
+          "Size": "Small",
+          "Category_Average": 3.17373,
+          "Benchmark": 2.94221,
+          "Portfolio_%": 4.36196
+        },
+        "5": {
+          "Size": "Micro",
+          "Category_Average": 0.45265,
+          "Benchmark": 0.04178,
+          "Portfolio_%": 0
+        }
+      },
+      "market_capitalization": null,
+      "world_regions": null,
+      "sector_weights": null,
+      "asset_allocation": null
+    },
+    "Asset_Allocation": [
+      {
+        "Net_%": "3.72536",
+        "Long_%": "3.72536",
+        "Type": "Cash",
+        "Short_%": "0.00000",
+        "Category_Average": "11.83947",
+        "Benchmark": "0.00010",
+        "Name": "0"
+      },
+      {
+        "Net_%": "0.0",
+        "Long_%": "0.0",
+        "Type": "Not Classified",
+        "Short_%": "0.0",
+        "Category_Average": "1.29731",
+        "Benchmark": "0.00195",
+        "Name": "1"
+      },
+      {
+        "Net_%": "32.26863",
+        "Long_%": "32.26863",
+        "Type": "Non US Stock",
+        "Short_%": "0.00000",
+        "Category_Average": "27.20729",
+        "Benchmark": "24.21610",
+        "Name": "2"
+      },
+      {
+        "Net_%": "9.61275",
+        "Long_%": "10.05441",
+        "Type": "Other",
+        "Short_%": "0.44166",
+        "Category_Average": "5.23156",
+        "Benchmark": "3.96032",
+        "Name": "3"
+      },
+      {
+        "Net_%": "40.16421",
+        "Long_%": "40.16421",
+        "Type": "US Stock",
+        "Short_%": "0.00000",
+        "Category_Average": "35.77353",
+        "Benchmark": "37.05033",
+        "Name": "4"
+      },
+      {
+        "Net_%": "14.22904",
+        "Long_%": "14.22904",
+        "Type": "Bond",
+        "Short_%": "0.00000",
+        "Category_Average": "38.21808",
+        "Benchmark": "34.77297",
+        "Name": "5"
+      }
+    ],
+    "WorldRegionHoldings": [
+      {
+        "0": {
+          "Name": "North America",
+          "Category_Average": 59.606,
+          "Stocks_%": 66.04,
+          "Benchmark": 63.456
+        },
+        "1": {
+          "Name": "Latin America",
+          "Category_Average": 2.084,
+          "Stocks_%": 0.517,
+          "Benchmark": 1.05
+        },
+        "Name": "Americas"
+      },
+      {
+        "0": {
+          "Name": "Japan",
+          "Category_Average": 7.186,
+          "Stocks_%": 4.561,
+          "Benchmark": 6.651
+        },
+        "1": {
+          "Name": "Australasia",
+          "Category_Average": 1.763,
+          "Stocks_%": 2.354,
+          "Benchmark": 1.997
+        },
+        "2": {
+          "Name": "Asia Developed",
+          "Category_Average": 3.898,
+          "Stocks_%": 2.768,
+          "Benchmark": 3.884
+        },
+        "3": {
+          "Name": "Asia Emerging",
+          "Category_Average": 2.846,
+          "Stocks_%": 1.437,
+          "Benchmark": 5.202
+        },
+        "Name": "Greater Asia"
+      },
+      {
+        "0": {
+          "Name": "United Kingdom",
+          "Category_Average": 6.0067,
+          "Stocks_%": 7.40952,
+          "Benchmark": 3.55065
+        },
+        "1": {
+          "Name": "Europe Developed",
+          "Category_Average": 15.945,
+          "Stocks_%": 14.913,
+          "Benchmark": 12.579
+        },
+        "2": {
+          "Name": "Europe Emerging",
+          "Category_Average": 0.13,
+          "Stocks_%": 0,
+          "Benchmark": 0.259
+        },
+        "3": {
+          "Name": "Africa/Middle East",
+          "Category_Average": 0.534,
+          "Stocks_%": 0,
+          "Benchmark": 1.372
+        },
+        "Name": "Greater Europe"
+      }
+    ],
+    "Sector_Weights": [
+      {
+        "0": {
+          "Name": "Basic Materials",
+          "Category_Average": 5.56625,
+          "Amount_%": 9.53605,
+          "Benchmark": 4.33839
+        },
+        "1": {
+          "Name": "Consumer Cyclical",
+          "Category_Average": 9.40664,
+          "Amount_%": 0.87992,
+          "Benchmark": 10.79135
+        },
+        "2": {
+          "Name": "Financial Services",
+          "Category_Average": 13.53694,
+          "Amount_%": 0,
+          "Benchmark": 15.56145
+        },
+        "3": {
+          "Name": "Real Estate",
+          "Category_Average": 8.79225,
+          "Amount_%": 44.25629,
+          "Benchmark": 2.70042
+        },
+        "Name": "Cyclical"
+      },
+      {
+        "0": {
+          "Name": "Consumer Defensive",
+          "Category_Average": 6.26035,
+          "Amount_%": 1.15812,
+          "Benchmark": 6.46716
+        },
+        "1": {
+          "Name": "Healthcare",
+          "Category_Average": 10.39567,
+          "Amount_%": 0,
+          "Benchmark": 11.18603
+        },
+        "2": {
+          "Name": "Utilities",
+          "Category_Average": 5.11412,
+          "Amount_%": 18.17113,
+          "Benchmark": 2.42554
+        },
+        "Name": "Defensive"
+      },
+      {
+        "0": {
+          "Name": "Communication Services",
+          "Category_Average": 5.27161,
+          "Amount_%": 0.4722,
+          "Benchmark": 7.32961
+        },
+        "1": {
+          "Name": "Energy",
+          "Category_Average": 7.66973,
+          "Amount_%": 16.68541,
+          "Benchmark": 4.54751
+        },
+        "2": {
+          "Name": "Industrials",
+          "Category_Average": 11.49928,
+          "Amount_%": 8.84088,
+          "Benchmark": 11.19512
+        },
+        "3": {
+          "Name": "Technology",
+          "Category_Average": 16.48718,
+          "Amount_%": 0,
+          "Benchmark": 23.45743
+        },
+        "Name": "Sensitive"
+      },
+      {
+        "0": {
+          "Name": "Government",
+          "Category_Average": 54.49287,
+          "Amount_%": 18.17113,
+          "Stocks_%": 79.25099,
+          "Benchmark": 65.2643
+        },
+        "1": {
+          "Name": "Municipal",
+          "Category_Average": 0.04079,
+          "Amount_%": 18.17113,
+          "Stocks_%": 0,
+          "Benchmark": 0.02692
+        },
+        "2": {
+          "Name": "Corporate",
+          "Category_Average": 17.64518,
+          "Amount_%": 18.17113,
+          "Stocks_%": 0,
+          "Benchmark": 16.71202
+        },
+        "3": {
+          "Name": "Securitized",
+          "Category_Average": 8.88128,
+          "Amount_%": 18.17113,
+          "Stocks_%": 0,
+          "Benchmark": 17.99648
+        },
+        "4": {
+          "Name": "Cash and Equivalents",
+          "Category_Average": 18.20574,
+          "Amount_%": 18.17113,
+          "Stocks_%": 20.74901,
+          "Benchmark": 0.00029
+        },
+        "5": {
+          "Name": "Derivative",
+          "Category_Average": 0.73412,
+          "Amount_%": 18.17113,
+          "Stocks_%": 0,
+          "Benchmark": 0
+        },
+        "Name": "Bond Sector"
+      }
+    ],
+    "Holdings": [],
+    "Top_Holdings": [
+      {
+        "Name": "Cayman Real Assets Fund Ltd.",
+        "Owned": "55,249,300",
+        "Change": "4,040,000",
+        "Weight": " 13.65"
+      },
+      {
+        "Name": "Crown Castle International Corp",
+        "Owned": "1,152,050",
+        "Change": "72,700",
+        "Weight": " 3.29"
+      },
+      {
+        "Name": "Sempra Energy",
+        "Owned": "922,675",
+        "Change": "69,250",
+        "Weight": " 2.30"
+      },
+      {
+        "Name": "SBA Communications Corp",
+        "Owned": "343,776",
+        "Change": "-43,300",
+        "Weight": " 1.84"
+      },
+      {
+        "Name": "Enbridge Inc",
+        "Owned": "2,630,290",
+        "Change": "1,249,600",
+        "Weight": " 1.77"
+      },
+      {
+        "Name": "Cheniere Energy Inc",
+        "Owned": "789,522",
+        "Change": "-86,200",
+        "Weight": " 1.66"
+      },
+      {
+        "Name": "Nutrien Ltd",
+        "Owned": "1,087,263",
+        "Change": "54,500",
+        "Weight": " 1.65"
+      },
+      {
+        "Name": "Williams Companies Inc",
+        "Owned": "3,037,312",
+        "Change": "810,100",
+        "Weight": " 1.61"
+      },
+      {
+        "Name": "United States Treasury Notes 0.375%",
+        "Owned": "84,099,104",
+        "Change": "8,876,401",
+        "Weight": " 1.35"
+      },
+      {
+        "Name": "American Tower Corp",
+        "Owned": "348,159",
+        "Change": "105,800",
+        "Weight": " 1.30"
+      },
+      {
+        "Name": "CSX Corp",
+        "Owned": "2,435,283",
+        "Change": "179,200",
+        "Weight": " 1.29"
+      },
+      {
+        "Name": "National Grid PLC",
+        "Owned": "5,512,738",
+        "Change": "67,600",
+        "Weight": " 1.27"
+      },
+      {
+        "Name": "United States Treasury Notes 0.25%",
+        "Owned": "77,453,893",
+        "Change": "10,495,025",
+        "Weight": " 1.24"
+      },
+      {
+        "Name": "United States Treasury Notes 2.875%",
+        "Owned": "79,692,000",
+        "Change": "2,791,000",
+        "Weight": " 1.24"
+      },
+      {
+        "Name": "Prologis Inc",
+        "Owned": "498,060",
+        "Change": "34,800",
+        "Weight": " 1.23"
+      },
+      {
+        "Name": "Welltower OP LLC",
+        "Owned": "858,197",
+        "Change": "69,760",
+        "Weight": " 1.20"
+      },
+      {
+        "Name": "United States Treasury Notes 0.625%",
+        "Owned": "73,738,129",
+        "Change": "8,204,208",
+        "Weight": " 1.20"
+      },
+      {
+        "Name": "Cellnex Telecom SA",
+        "Owned": "1,560,372",
+        "Change": "620,800",
+        "Weight": " 1.12"
+      },
+      {
+        "Name": "Ameren Corp",
+        "Owned": "764,833",
+        "Change": "50,500",
+        "Weight": " 1.10"
+      },
+      {
+        "Name": "Terna SpA",
+        "Owned": "8,643,431",
+        "Change": "640,900",
+        "Weight": " 1.09"
+      },
+      {
+        "Name": "United States Treasury Notes 1.375%",
+        "Owned": "70,986,000",
+        "Change": "2,486,000",
+        "Weight": " 1.08"
+      },
+      {
+        "Name": "United States Treasury Notes 0.125%",
+        "Owned": "69,448,000",
+        "Change": "2,432,000",
+        "Weight": " 1.04"
+      },
+      {
+        "Name": "United States Treasury Notes 0.125%",
+        "Owned": "67,359,000",
+        "Change": "2,359,000",
+        "Weight": " 1.01"
+      },
+      {
+        "Name": "Atmos Energy Corp",
+        "Owned": "573,890",
+        "Change": "28,050",
+        "Weight": " 1.00"
+      },
+      {
+        "Name": "United States Treasury Notes 0.375%",
+        "Owned": "60,354,181",
+        "Change": "4,658,814",
+        "Weight": " 0.97"
+      }
+    ],
+    "Top_Countries": [
+      {
+        "Category_Average": null,
+        "Country": "0.00",
+        "Amount_%": "1.06",
+        "Benchmark": "17.74"
+      },
+      {
+        "Category_Average": null,
+        "Country": "100.00",
+        "Amount_%": "71.89",
+        "Benchmark": "67.64"
+      },
+      {
+        "Category_Average": null,
+        "Country": "0.00",
+        "Amount_%": "20.44",
+        "Benchmark": "8.97"
+      },
+      {
+        "Category_Average": null,
+        "Country": "0.00",
+        "Amount_%": "5.39",
+        "Benchmark": "2.98"
+      },
+      {
+        "Category_Average": null,
+        "Country": "0.00",
+        "Amount_%": "1.02",
+        "Benchmark": "2.07"
+      },
+      {
+        "Category_Average": null,
+        "Country": "0.00",
+        "Amount_%": "0.14",
+        "Benchmark": "0.57"
+      },
+      {
+        "Category_Average": null,
+        "Country": "0.00",
+        "Amount_%": "0.06",
+        "Benchmark": "0.03"
+      }
+    ]
+  }

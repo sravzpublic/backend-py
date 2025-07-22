@@ -1,0 +1,68 @@
+FROM apache/airflow:3.0.2-python3.12
+LABEL MAINTAINER=contactus@sravz.com
+USER root
+ARG DEBIAN_FRONTEND=noninteractive
+# Change python version here when it is changed above
+ARG PYTHON_VERSION=3.12
+ARG BUILD_PYTHON_DEPS=" \
+        make \
+        build-essential \
+        libbz2-dev \
+        libffi-dev \
+        libgdbm-dev \
+        libncurses5-dev \
+        libncursesw5-dev \
+        libnss3-dev \
+        libreadline-dev \
+        libsqlite3-dev \
+        libssl-dev \
+        lzma \
+        xz-utils \
+        zlib1g-dev \
+        "
+ARG BUILD_OPT_DEPS=" \
+        sudo \
+        locales \
+        git \
+        ca-certificates \
+        curl\
+        "
+
+# basic update & locale setting
+RUN apt-get update \
+        && DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends \
+        ${BUILD_PYTHON_DEPS} \
+        ${BUILD_OPT_DEPS} \
+        libxml2-dev libxslt-dev \
+        && localedef -f UTF-8 -i en_US en_US.UTF-8 \
+        && useradd -m -s /bin/bash ubuntu \
+        && echo 'ubuntu ALL=(ALL) NOPASSWD:ALL' >> /etc/sudoers \
+        && apt-get install lzma -y \
+        && apt-get install liblzma-dev -y \
+        && apt-get autoremove -yqq --purge \
+        && apt-get clean \
+        && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
+
+USER airflow
+WORKDIR /home/airflow
+
+ADD . /home/airflow/
+ADD ./dags /opt/airflow/dags/
+
+RUN python -m pip install --upgrade pip
+# RUN python -m pip install numpy # Needed by prophet - requirements does not work, seems it needs preinstalled
+# RUN python -m pip install Cython>=0.22 # Needed by pystan
+RUN python -m pip install -r requirements.txt \
+        && python -m pip install prophet \ 
+        && python -m pip uninstall Flask -y \ 
+        && python -m pip install Flask==2.2.5 \
+        && rm -rf /boot/.cache/pip \
+        && rm -rf ~/.cache/pip
+
+USER airflow
+
+HEALTHCHECK  --interval=10m --timeout=30s CMD bash healthcheck.sh > /dev/null || exit 1
+
+ENTRYPOINT []
+
+CMD ["make", "run"]

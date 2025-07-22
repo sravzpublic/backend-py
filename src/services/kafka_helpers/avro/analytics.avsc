@@ -1,0 +1,10 @@
+{
+ "namespace": "analytics",
+ "type": "record",
+ "name": "rolling",
+ "fields": [
+     {"name": "itopic", "type":  "string"},
+     {"name": "otopic",  "type": "string"},
+     {"name": "params", "fields":[ {"name":"sravzid", "type": "string", "default":null} ], "type": "record"}
+ 	]
+}

@@ -1,0 +1,189 @@
+appnope
+argon2-cffi
+asn1crypto
+astroid
+async-generator
+asyncssh
+attrs
+autopep8
+awscli
+backcall
+bcrypt
+beautifulsoup4
+bleach
+bokeh
+boto
+# Latest throws missing contentlenght error: https://github.com/boto/boto3/issues/4398
+boto3==1.35.95 
+botocore
+Bottleneck
+cachetools
+certifi
+cffi
+chardet
+click
+cloudpickle
+colorama
+convertdate
+cryptography
+cycler
+Cython
+dask
+decorator
+defusedxml
+diskcache
+# distributed
+# docutils
+git+https://github.com/sravzpublic/empyrical
+entrypoints
+ephem
+fabric
+feedparser
+fredapi
+fsspec
+# google-api-core
+# google-auth
+# google-cloud-pubsub
+# googleapis-common-protos
+# grpc-google-iam-v1
+# grpcio
+h5py
+HeapDict
+# Required by prophet
+holidays==0.12
+idna
+inflection
+iniconfig
+invoke
+# ipykernel
+# ipython
+# ipython-genutils
+# ipywidgets
+isort
+jedi
+Jinja2<3.1.0
+jmespath
+joblib
+jsonschema
+# jupyter
+# jupyter-client
+# jupyter-console
+# jupyter-core
+# jupyterlab-pygments
+kiwisolver
+lazy-object-proxy
+locket
+lunardate
+lxml
+markupsafe==2.0.1
+matplotlib
+mccabe
+mistune
+more-itertools
+# nbclient
+# nbconvert
+# nbformat
+ndg-httpsclient
+nest-asyncio
+notebook
+numpy
+packaging
+pandas
+pandas-datareader
+pandocfilters
+# paramiko
+parso
+partd
+patsy
+pexpect
+pickleshare
+Pillow
+plotly
+pluggy
+prettytable
+prometheus-client
+prompt-toolkit
+protobuf
+psutil
+ptyprocess
+py
+pyasn1
+pyasn1-modules
+pycodestyle
+pycountry
+pycparser
+git+https://github.com/sravzpublic/pyfolio
+Pygments
+pylint
+#pymc3
+PyNaCl
+pynsq
+pyOpenSSL
+pyparsing
+pyrsistent
+# Need to pin for prophet to install
+pystan==3.9.1
+pytest
+python-dateutil
+pytrends
+pytz
+PyYAML
+pyzmq
+qtconsole
+QtPy
+Quandl
+recordtype
+requests
+requests-file
+requests-ftp
+retrying
+rsa
+s3transfer
+scikit-learn
+scipy
+seaborn
+Send2Trash
+setuptools-git
+simplegeneric
+six
+sortedcontainers
+statsmodels
+tblib
+terminado
+testpath
+# Theano # Discontinued, use PyTensor
+threadpoolctl
+titlecase
+toml
+toolz
+tornado
+tqdm
+traitlets
+typing-extensions
+urllib3
+urlparse2
+vaderSentiment
+wcwidth
+webencodings
+widgetsnbextension
+wrapt
+zict
+pymongo[tls]
+pymongo[srv]
+lunarcalendar
+holidays
+cython
+pystan
+cytoolz
+lz4
+tini
+cachey
+streamz
+# jupyter-server-proxy
+pyarrow
+awswrangler
+nest-asyncio
+plyvel
+# prophet
+msgpack-python 
+msgpack

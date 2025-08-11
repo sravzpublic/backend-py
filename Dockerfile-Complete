@@ -1,5 +1,5 @@
 FROM apache/airflow:3.0.2-python3.12
-LABEL MAINTAINER=contactus@sravz.com
+LABEL maintainer="contactus@sravz.com"
 USER root
 ARG DEBIAN_FRONTEND=noninteractive
 # Change python version here when it is changed above

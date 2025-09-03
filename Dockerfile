@@ -1,5 +1,5 @@
 FROM public.ecr.aws/b8h3z2a1/sravz/backend-py:v186
-LABEL MAINTAINER=contactus@sravz.com
+LABEL maintainer="contactus@sravz.com"
 
 USER airflow
 WORKDIR /home/airflow

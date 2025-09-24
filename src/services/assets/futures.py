@@ -23,8 +23,12 @@ def upload_assets():
         future_asset["Ticker"] = future_asset["Code"]
         futures_assets.append(future_asset)
 
-    mdbe.upsert_to_collection(settings.constants.FUTURE_ASSETS_COLLECTION, futures_assets)
-    mdbe.create_index_collection(settings.constants.FUTURE_ASSETS_COLLECTION, "SravzId")
+    # If futures_assets is not empty, empty the collection first and then load the new assets
+    if futures_assets:
+        collection = mdbe.get_collection(settings.constants.FUTURE_ASSETS_COLLECTION)
+        collection.delete_many({})  # Empty the collection
+        mdbe.upsert_to_collection(settings.constants.FUTURE_ASSETS_COLLECTION, futures_assets)
+        mdbe.create_index_collection(settings.constants.FUTURE_ASSETS_COLLECTION, "SravzId")
 
 
 
